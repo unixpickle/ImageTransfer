@@ -1,0 +1,634 @@
+TImageTransfer
+v7
+r0
+t310860124.345550
+cCheck dependencies
+cProcessInfoPlistFile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/Info.plist ImageTransfer-Info.plist
+cCompileXIB /Users/alex/Desktop/ImageTransfer/MainWindow.xib
+cCompileXIB /Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib
+cCompileXIB /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib
+cCpResource build/Debug-iphonesimulator/ImageTransfer.app/unpress.png unpress.png
+cCpResource build/Debug-iphonesimulator/ImageTransfer.app/nbacking.png nbacking.png
+cCpResource build/Debug-iphonesimulator/ImageTransfer.app/pressed.png pressed.png
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch.gch ImageTransfer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/main.o /Users/alex/Desktop/ImageTransfer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferAppDelegate.o /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferViewController.o /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/GZipper.o /Users/alex/Desktop/ImageTransfer/Classes/GZipper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCFile.o /Users/alex/Desktop/ImageTransfer/Classes/TCFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCPacket.o /Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCSession.o /Users/alex/Desktop/ImageTransfer/Classes/TCSession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANProgressIndicator.o /Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANLoadingManager.o /Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewController.o /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer normal i386
+cGenerateDSYMFile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app.dSYM /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer
+cTouch /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C215A8C0000000000000132
+t1277254284
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C04734F00000000000D9120
+t1275360079
+s889120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C047342000000000000014A
+t1275360066
+s330
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/zlib.h
+c000000004A1F0FE200000000000102A5
+t1243549666
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libz.1.2.3.dylib
+c000000004AD4F6ED0000000000005D2C
+t1255470829
+s23852
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.h
+c000000004CD06DE000000000000001C4
+t1288728032
+s452
+i<UIKit/UIKit.h>
+i"ANProgressIndicator.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m
+c000000004CD713670000000000000760
+t1289163623
+s1888
+i"ANLoadingManager.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.h
+c000000004CD06E690000000000000195
+t1288728169
+s405
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m
+c000000004CD06FE40000000000000712
+t1288728548
+s1810
+i"ANProgressIndicator.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/GZipper.h
+c000000004CD46C8D0000000000000120
+t1288989837
+s288
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/GZipper.m
+c000000004CD46ED700000000000008FF
+t1288990423
+s2303
+i"GZipper.h"
+i<zlib.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.h
+c000000004CD70CA10000000000000202
+t1289161889
+s514
+i<UIKit/UIKit.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m
+c000000004CD70CA10000000000000AA8
+t1289161889
+s2728
+i"ImageTransferAppDelegate.h"
+i"ImageTransferViewController.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.h
+c000000004CD7133E00000000000003C8
+t1289163582
+s968
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i"GZipper.h"
+i"TCSession.h"
+i"ImageViewController.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m
+c000000004CD71B0200000000000012AC
+t1289165570
+s4780
+i"ImageTransferViewController.h"
+i"ANLoadingManager.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.h
+c000000004CD7121B0000000000000185
+t1289163291
+s389
+i<UIKit/UIKit.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m
+c000000004CD71D8B00000000000009C1
+t1289166219
+s2497
+i"ImageViewController.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib
+c000000004CD71B8B0000000000005AED
+t1289165707
+s23277
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageViewer.h
+c000000004CD7116500000000000000D7
+t1289163109
+s215
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/ImageViewer.m
+c000000004CD7116500000000000000CC
+t1289163109
+s204
+i"ImageViewer.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/MultiplayerViewController.h
+c000000004CD5AAE50000000000000475
+t1289071333
+s1141
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i"SBCustomGamePicker.h"
+i"GameViewController.h"
+i"ANLoadingManager.h"
+i"GZipper.h"
+i"TCSession.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/MultiplayerViewController.m
+c000000004CD5AB02000000000000378E
+t1289071362
+s14222
+i"MultiplayerViewController.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/MultiplayerViewController.xib
+c000000004CD1F8990000000000005B79
+t1288829081
+s23417
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCFile.h
+c000000004CD5C86000000000000002C7
+t1289078880
+s711
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCFile.m
+c000000004CD58A950000000000000448
+t1289063061
+s1096
+i"TCFile.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCPacket.h
+c000000004CD57C570000000000000260
+t1289059415
+s608
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m
+c000000004CD5B5460000000000000634
+t1289073990
+s1588
+i"TCPacket.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCSession.h
+c000000004CD7191400000000000003BB
+t1289165076
+s955
+i<Foundation/Foundation.h>
+i<GameKit/GameKit.h>
+i"TCFile.h"
+i"TCPacket.h"
+
+N/Users/alex/Desktop/ImageTransfer/Classes/TCSession.m
+c000000004CD719510000000000001C59
+t1289165137
+s7257
+i"TCSession.h"
+i"GZipper.h"
+
+N/Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib
+c000000004CD7162E000000000000841D
+t1289164334
+s33821
+
+N/Users/alex/Desktop/ImageTransfer/ImageTransfer_Prefix.pch
+c000000004CD70CA100000000000000C3
+t1289161889
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alex/Desktop/ImageTransfer/MainWindow.xib
+c000000004CD70CA10000000000004E71
+t1289161889
+s20081
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app
+t1289166223
+s374
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app.dSYM
+t1289166223
+s102
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer
+t1289166223
+s65000
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransferViewController.nib
+t1289164359
+s2972
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageViewController.nib
+t1289165842
+s1440
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/Info.plist
+t1289163802
+s615
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/MainWindow.nib
+t1289163803
+s1135
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/MultiplayerViewController.nib
+t2
+s0
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/PkgInfo
+t1289163802
+s8
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/nbacking.png
+t1289164358
+s14143
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/pressed.png
+t1289164358
+s12119
+
+N/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/unpress.png
+t1289164358
+s10334
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANLoadingManager.o
+t1289163804
+s47704
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANProgressIndicator.o
+t1289163804
+s43052
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/GZipper.o
+t1289163804
+s9740
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransfer.LinkFileList
+c000000004CD7141A000000000000056D
+t1289163802
+s1389
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferAppDelegate.o
+t1289165305
+s50880
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferViewController.o
+t1289165596
+s64424
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewController.o
+t1289166223
+s45712
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewer.o
+t2
+s0
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/MultiplayerViewController.o
+t2
+s0
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCFile.o
+t1289163804
+s15104
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCPacket.o
+t1289163804
+s15452
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCSession.o
+t1289165305
+s30488
+
+N/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/main.o
+t1289163804
+s6292
+
+N/Users/alex/Desktop/ImageTransfer/main.m
+c000000004CD70CA1000000000000016E
+t1289161889
+s366
+i<UIKit/UIKit.h>
+
+N/Users/alex/Desktop/ImageTransfer/nbacking.png
+c000000004CD6CA0B000000000000373F
+t1289144843
+s14143
+
+N/Users/alex/Desktop/ImageTransfer/pressed.png
+c000000004CD706390000000000002F57
+t1289160249
+s12119
+
+N/Users/alex/Desktop/ImageTransfer/unpress.png
+c000000004CD7067D000000000000285E
+t1289160317
+s10334
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch.gch
+t1289163804
+s15232016
+
+NImageTransfer-Info.plist
+c000000004CD70CA1000000000000038D
+t1289161889
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310860124#310860124#0(0"0(0#1#0"8621225696#0"0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANLoadingManager.o /Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.667459
+e310856604.797675
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANLoadingManager.o
+x/Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m310856604#310856604#0(0"0(0#0#60"/Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m8620753344#1998"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/ANLoadingManager.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANLoadingManager.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANProgressIndicator.o /Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.545624
+e310856604.667340
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANProgressIndicator.o
+x/Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m310856604#310856604#0(0"0(0#0#63"/Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m8621734144#2004"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/ANProgressIndicator.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ANProgressIndicator.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/GZipper.o /Users/alex/Desktop/ImageTransfer/Classes/GZipper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.372401
+e310856604.455954
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/GZipper.o
+x/Users/alex/Desktop/ImageTransfer/Classes/GZipper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/alex/Desktop/ImageTransfer/Classes/GZipper.m310856604#310856604#0(0"0(0#0#51"/Users/alex/Desktop/ImageTransfer/Classes/GZipper.m8620167776#1980"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/GZipper.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/GZipper.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferAppDelegate.o /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310858104.708654
+e310858105.225787
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferAppDelegate.o
+x/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m310858104#310858105#0(0"0(0#0#68"/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m8624272128#2014"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferAppDelegate.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferAppDelegate.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferViewController.o /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310858396.510605
+e310858396.797412
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferViewController.o
+x/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m310858396#310858396#0(0"0(0#0#71"/Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m8626944160#2020"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/ImageTransferViewController.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransferViewController.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewController.o /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310859023.106882
+e310859023.489786
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewController.o
+x/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m310859023#310859023#0(0"0(0#0#63"/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m8625294336#2004"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewController.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageViewer.o /Users/alex/Desktop/ImageTransfer/Classes/ImageViewer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/MultiplayerViewController.o /Users/alex/Desktop/ImageTransfer/Classes/MultiplayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCFile.o /Users/alex/Desktop/ImageTransfer/Classes/TCFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.456063
+e310856604.544350
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCFile.o
+x/Users/alex/Desktop/ImageTransfer/Classes/TCFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/alex/Desktop/ImageTransfer/Classes/TCFile.m310856604#310856604#0(0"0(0#0#50"/Users/alex/Desktop/ImageTransfer/Classes/TCFile.m8624980160#1978"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/TCFile.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCFile.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCPacket.o /Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.464820
+e310856604.545554
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCPacket.o
+x/Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m310856604#310856604#0(0"0(0#0#52"/Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m8624082272#1982"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/TCPacket.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCPacket.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCSession.o /Users/alex/Desktop/ImageTransfer/Classes/TCSession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310858105.226156
+e310858105.633775
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCSession.o
+x/Users/alex/Desktop/ImageTransfer/Classes/TCSession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/alex/Desktop/ImageTransfer/Classes/TCSession.m310858105#310858105#0(0"0(0#0#53"/Users/alex/Desktop/ImageTransfer/Classes/TCSession.m8625246080#1984"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/Classes/TCSession.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/TCSession.o0#
+
+CCompileC build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/main.o /Users/alex/Desktop/ImageTransfer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856604.281697
+e310856604.342047
+r1
+xCompileC
+xbuild/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/main.o
+x/Users/alex/Desktop/ImageTransfer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/alex/Desktop/ImageTransfer/main.m310856604#310856604#0(0"0(0#0#40"/Users/alex/Desktop/ImageTransfer/main.m8621797952#1966"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch -c /Users/alex/Desktop/ImageTransfer/main.m -o /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib
+s310858640.162443
+e310858642.371916
+r1
+xCompileXIB
+x/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib
+lSLF07#2@42"CompileXIB Classes/ImageViewController.xib310858640#310858642#0(0"0(0#0#65"/Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib8628633344#587"    cd /Users/alex/Desktop/ImageTransfer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageViewController.nib /Users/alex/Desktop/ImageTransfer/Classes/ImageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/alex/Desktop/ImageTransfer/Classes/MultiplayerViewController.xib
+r0
+
+CCompileXIB /Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib
+s310857158.201342
+e310857160.100610
+r1
+xCompileXIB
+x/Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib
+lSLF07#2@42"CompileXIB ImageTransferViewController.xib310857158#310857160#0(0"0(0#0#65"/Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib8619642976#595"    cd /Users/alex/Desktop/ImageTransfer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransferViewController.nib /Users/alex/Desktop/ImageTransfer/ImageTransferViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/alex/Desktop/ImageTransfer/MainWindow.xib
+s310856602.618866
+e310856603.107798
+r1
+xCompileXIB
+x/Users/alex/Desktop/ImageTransfer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310856602#310856603#0(0"0(0#0#48"/Users/alex/Desktop/ImageTransfer/MainWindow.xib8624676448#561"    cd /Users/alex/Desktop/ImageTransfer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/MainWindow.nib /Users/alex/Desktop/ImageTransfer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ImageTransfer.app/nbacking.png nbacking.png
+s310857158.204354
+e310857158.253059
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageTransfer.app/nbacking.png
+xnbacking.png
+lSLF07#2@17"Copy nbacking.png310857158#310857158#0(0"0(0#0#46"/Users/alex/Desktop/ImageTransfer/nbacking.png8615323328#447"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/alex/Desktop/ImageTransfer/nbacking.png /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageTransfer.app/pressed.png pressed.png
+s310857158.213329
+e310857158.253201
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageTransfer.app/pressed.png
+xpressed.png
+lSLF07#2@16"Copy pressed.png310857158#310857158#0(0"0(0#0#45"/Users/alex/Desktop/ImageTransfer/pressed.png8612845376#446"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/alex/Desktop/ImageTransfer/pressed.png /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageTransfer.app/unpress.png unpress.png
+s310857158.202726
+e310857158.248760
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageTransfer.app/unpress.png
+xunpress.png
+lSLF07#2@16"Copy unpress.png310857158#310857158#0(0"0(0#0#45"/Users/alex/Desktop/ImageTransfer/unpress.png8616790304#446"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/alex/Desktop/ImageTransfer/unpress.png /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app0#
+
+CGenerateDSYMFile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app.dSYM /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer
+s310859023.601400
+e310859023.702844
+r1
+xGenerateDSYMFile
+x/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app.dSYM
+x/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/ImageTransfer.app.dSYM build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer310859023#310859023#0(0"0(0#0#93"/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer8626676992#386"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer -o /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app.dSYM0#
+
+CLd /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer normal i386
+s310859023.489890
+e310859023.601122
+r1
+xLd
+x/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer
+xnormal
+xi386
+lSLF07#2@98"Link /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer310859023#310859023#0(0"0(0#0#0"8627031360#934"    cd /Users/alex/Desktop/ImageTransfer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -filelist /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/Objects-normal/i386/ImageTransfer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -lz.1.2.3 -o /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/ImageTransfer0#
+
+CProcessInfoPlistFile /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/Info.plist ImageTransfer-Info.plist
+s310856602.615295
+e310856602.618799
+r1
+xProcessInfoPlistFile
+x/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/Info.plist
+xImageTransfer-Info.plist
+lSLF07#2@32"Process ImageTransfer-Info.plist310856602#310856602#0(0"0(0#0#58"/Users/alex/Desktop/ImageTransfer/ImageTransfer-Info.plist8625344608#482"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ImageTransfer-Info.plist -genpkginfo /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app/Info.plist0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch.gch ImageTransfer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310856603.494638
+e310856604.281479
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch.gch
+xImageTransfer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile ImageTransfer_Prefix.pch310856603#310856604#0(0"0(0#0#58"/Users/alex/Desktop/ImageTransfer/ImageTransfer_Prefix.pch8622347328#1857"    cd /Users/alex/Desktop/ImageTransfer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-generated-files.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-own-target-headers.hmap -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-all-target-headers.hmap -iquote /Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/ImageTransfer-project-headers.hmap -F/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator -I/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources/i386 -I/Users/alex/Desktop/ImageTransfer/build/ImageTransfer.build/Debug-iphonesimulator/ImageTransfer.build/DerivedSources -c /Users/alex/Desktop/ImageTransfer/ImageTransfer_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageTransfer_Prefix-fbqvxtgpcktpffghwqmgnmdkghfl/ImageTransfer_Prefix.pch.gch0#
+
+CTouch /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app
+s310859023.702958
+e310859023.732664
+r1
+xTouch
+x/Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app
+lSLF07#2@85"Touch /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app310859023#310859023#0(0"0(0#0#0"8620444032#274"    cd /Users/alex/Desktop/ImageTransfer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alex/Desktop/ImageTransfer/build/Debug-iphonesimulator/ImageTransfer.app0#
+
